@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlaceableBuilding.cs">
+    <Files>
+      <File FileName="Assets\Scripts\BuildingManager.cs" Line="84" Column="23" />
+      <File FileName="Assets\Scripts\CameraControls.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Leader_Selection.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BuildingPlacement.cs" Line="257" Column="28" />
+      <File FileName="Assets\Scripts\ResourceManagementAmmo.cs" Line="53" Column="4" />
+      <File FileName="Assets\Scripts\ResourceManagementOil.cs" Line="115" Column="4" />
+      <File FileName="Assets\Scripts\ResourceManagementUranium.cs" Line="115" Column="4" />
+      <File FileName="Assets\Scripts\PlaceableBuilding.cs" Line="43" Column="7" />
+      <File FileName="Assets\Scripts\ResourceManagementGold.cs" Line="7" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
