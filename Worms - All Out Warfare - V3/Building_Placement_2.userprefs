@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\BuildingManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\BuildingPlacement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlaceableBuilding.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BuildingManager.cs" Line="46" Column="11" />
+      <File FileName="Assets\Standard Assets (Mobile)\Scripts\RotationConstraint.js" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets (Mobile)\Scripts\PlayerRelativeControl.js" Line="23" Column="31" />
+      <File FileName="Assets\Standard Assets (Mobile)\Scripts\FollowTransform.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
